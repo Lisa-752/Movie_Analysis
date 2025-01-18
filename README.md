@@ -19,7 +19,7 @@ Over the years, there has been a drastic change in movie production. Hence it is
     
     **The Numbers**: It offers data and analysis on movie box office earnings, production budgets, and related financial aspects.
     
-    **IMDB**: It serves as a comprehensive database for movie, TV, and celebrity information.
+    **IMDB** : It serves as a comprehensive database for movie, TV, and celebrity information.
 
 
 ## Data Analysis
