@@ -1,5 +1,4 @@
 # Film Production Analysis
-![alt text](images/img2.jpg)
 
 ## Project Overview
 This project aims to identify successful film trends in the current box office landscape to guide the strategic direction of our company's newly established movie studio.
