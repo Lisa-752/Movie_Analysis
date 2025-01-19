@@ -59,7 +59,8 @@ Over the years, there has been a drastic change in movie production. Hence it is
 
 
 ## Recommendations
+- **Genres** - The Company should invest in Horrors, Mystery and Thrillers since they have a high Return On Investment
+- **Budget** - A High Production Budget and a high worldwide Gross have a strong correlation.
+- **Directors** - Hiring Top Directors like `Clint Eastwood`.
 
 
-
-## Conclusion
