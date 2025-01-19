@@ -12,7 +12,7 @@ Over the years, there has been a drastic change in movie production. Hence it is
 
 ### Key Business Questions
 - What are the best-performing Genres in the Movie Industry?
-- How does Budget cost affect the success or performance of the movies?
+- How does Production Budget cost affect the success or performance of the movies?
 - Which director dominates the movie industry?
   
 ## Data Understanding
