@@ -56,10 +56,14 @@ Over the years, there has been a drastic change in movie production. Hence it is
   * The chart shows that `Horror`, `Mystery` and `Thriller` are a profitable Investment.
 
 ## Interactive Dashboard
+[Interactive Dashboard](https://public.tableau.com/app/profile/vincent.bahati/viz/MovieAnalysis_17372942171870/Dashboard1)
 
+## Presentation
+Access presentation slides [Here](https://docs.google.com/presentation/d/1-6KfAvo4eOmnq0RXkR31_ex7eV-n8ArFwYLAO0lC-0A/edit?pli=1#slide=id.g327409a8090_0_96)
 
 ## Recommendations
+- **Genres** - The Company should invest in Horrors, Mystery and Thrillers since they have a high Return On Investment
+- **Budget** - A High Production Budget and a high worldwide Gross have a strong correlation.
+- **Directors** - Hiring Top Directors like `Clint Eastwood`.
 
 
-
-## Conclusion
