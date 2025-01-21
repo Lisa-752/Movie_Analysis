@@ -59,7 +59,7 @@ Over the years, there has been a drastic change in movie production. Hence it is
 [Interactive Dashboard](Uploading Film Production Analysis.twb…)
 
 ## Presentation
-Access presentation slides [Here](https://docs.google.com/presentation/d/1-6KfAvo4eOmnq0RXkR31_ex7eV-n8ArFwYLAO0lC-0A/edit?pli=1#slide=id.g327409a8090_0_96)
+Access presentation slides [Here](https://docs.google.com/presentation/d/1o04Ds4JnwD8grQXs4iz9dSEhGOwlZZ_Bge5SE5c-wbs/edit#slide=id.g327409a8090_0_29)
 
 ## Recommendations
 - **Genres** - The Company should invest in Horrors, Mystery and Thrillers since they have a high Return On Investment
