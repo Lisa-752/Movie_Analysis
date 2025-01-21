@@ -56,7 +56,7 @@ Over the years, there has been a drastic change in movie production. Hence it is
   * The chart shows that `Horror`, `Mystery` and `Thriller` are a profitable Investment.
 
 ## Interactive Dashboard
-Access [Interactive Dashboard](https://public.tableau.com/app/profile/lisa.mwangi/viz/Film_AnalysisDashboard/Dashboard1?publish=yes)
+[Interactive Dashboard](https://public.tableau.com/app/profile/lisa.mwangi/viz/Film_AnalysisDashboard/Dashboard1?publish=yes)
 
 ## Presentation
 Access presentation slides [Here](https://docs.google.com/presentation/d/1o04Ds4JnwD8grQXs4iz9dSEhGOwlZZ_Bge5SE5c-wbs/edit#slide=id.g327409a8090_0_29)
